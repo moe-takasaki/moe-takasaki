@@ -1,10 +1,11 @@
 <div align="center">
 
+<p>
   <img
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:c134af,45:2563eb,100:c134af&text=高崎 隼人&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=負けるが勝ち&descAlignY=58&animation=fadeIn"
     alt="" />
-
+</p>
 
   <p>
     <a href="https://github.com/kagebyte-inc/?tab=repositories">
