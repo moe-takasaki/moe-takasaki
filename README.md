@@ -28,7 +28,7 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,opencv,qt,kotlin,arch,vscode&perline=8" alt="" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,opencv,kotlin,vscode&perline=8" alt="" />
 
 </div>
 
