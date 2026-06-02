@@ -40,7 +40,7 @@
 
   <img
     width="92%"
-    src="https://streak-stats.demolab.com?user=hayatotk&theme=tokyonight&hide_border=true&border_radius=8"
+    src="https://streak-stats.demolab.com?user=moe-taksaki&theme=tokyonight&hide_border=true&border_radius=8"
     alt="GitHub streak stats"
   />
 
@@ -54,7 +54,7 @@
 
   <img
     width="92%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hayatotk&theme=tokyo-night&hide_border=true&radius=8&area=true&custom_title=Contribution%20Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=moe-takasaki&theme=tokyo-night&hide_border=true&radius=8&area=true&custom_title=Contribution%20Graph"
     alt="Contribution activity graph"
   />
 
