@@ -40,7 +40,7 @@
 
   <img
     width="92%"
-    src="https://streak-stats.demolab.com?user=moe-taksaki&theme=tokyonight&hide_border=true&border_radius=8"
+    src="https://streak-stats.demolab.com?user=moe-takasaki&theme=tokyonight&hide_border=true&border_radius=8"
     alt="GitHub streak stats"
   />
 
