@@ -1,10 +1,10 @@
 <div align="center">
 
-こんにちは？
+
 <p>
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:c134af,45:2563eb,100:c134af&text=%E9%AB%98%E5%B4%8E&reversal=true&fontColor=ffffff&textBg=false&fontSize=50"
+    src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:c134af,45:2563eb,100:c134af&text=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%9F&reversal=true&fontColor=ffffff&textBg=false&fontSize=20"
     alt="" />
 
 </p>
