@@ -40,7 +40,7 @@
 
   <img
     width="92%"
-    src="https://streak-stats.demolab.com?user=moe-takasaki&theme=tokyonight&hide_border=true&border_radius=8"
+    src="https://github-readme-streak-stats-liard-zeta.vercel.app/?user=moe-takasaki&theme=tokyonight&hide_border=true&border_radius=0&locale=ja&short_numbers=true&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat&card_width=500&card_height=170"
     alt="GitHub streak stats"
   />
 
